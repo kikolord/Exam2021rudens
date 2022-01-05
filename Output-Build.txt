@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: WindowsFormsApp1, Configuration: Debug Any CPU ------
+1>C:\Users\Štarks\Desktop\eksamens\Exam2021rudens\WindowsFormsApp1\Form1.cs(1,7,1,13): error CS0246: The type or namespace name 'OpenQA' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\Štarks\Desktop\eksamens\Exam2021rudens\WindowsFormsApp1\Form1.cs(2,7,2,13): error CS0246: The type or namespace name 'OpenQA' could not be found (are you missing a using directive or an assembly reference?)
+1>C:\Users\Štarks\Desktop\eksamens\Exam2021rudens\WindowsFormsApp1\Form1.cs(10,9,10,19): error CS0246: The type or namespace name 'IWebDriver' could not be found (are you missing a using directive or an assembly reference?)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
